@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KotlinVk App</string>
+    <integer name="com_vk_sdk_AppId">7753728</integer>
+</resources>
